@@ -1,0 +1,18 @@
+{
+    "name": "morebitsbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "37a73120-eeeb-11e9-81fe-0b76f0ec43c4",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\Georden21\\source\\repos\\MorebitsBot\\morebitsbot.bot"
+}
