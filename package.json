@@ -18,8 +18,10 @@
     "dependencies": {
         "botbuilder": "^3.13.1",
         "botbuilder-ai": "^4.6.0-preview1",
+        "botbuilder-azure": "^4.6.0-preview1",
+        "botbuilder-cognitiveservices": "^1.2.0",
         "dotenv": "^7.0.0",
-        "restify": "^8.3.3"
+        "restify": "^8.4.0"
     },
     "devDependencies": {
         "eslint": "^5.13.0",
