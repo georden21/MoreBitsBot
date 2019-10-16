@@ -1,5 +1,5 @@
 {
-    "name": "morebitsbot",
+    "name": "morebits.bot",
     "description": "",
     "services": [
         {
@@ -7,12 +7,12 @@
             "appId": "",
             "appPassword": "",
             "endpoint": "http://localhost:3978/api/messages",
-            "id": "37a73120-eeeb-11e9-81fe-0b76f0ec43c4",
+            "id": "ba295280-efff-11e9-b3b1-1d979f7eaf9e",
             "name": "http://localhost:3978/api/messages"
         }
     ],
-    "padlock": "",
+    "padlock": "RvhtdB4ZwBGKL75LLj8FIw==!LvLvLVEmHL3k0klC72eszlujdY8ch4WcRefbUnSPweW9BpeekLFy3DZ6Tr+AM89Z",
     "version": "2.0",
     "overrides": null,
-    "path": "C:\\Users\\Georden21\\source\\repos\\MorebitsBot\\morebitsbot.bot"
+    "path": "C:\\Users\\Georden21\\source\\repos\\botbuilder-samples\\samples\\javascript_nodejs\\11.qnamaker\\morebits.bot"
 }
